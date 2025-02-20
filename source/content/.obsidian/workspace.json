@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story Beats/Resolution.md",
+                "file": "Story Beats/Growth1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resolution"
+              "title": "Growth1"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story Beats/Growth  1.md",
+                "file": "Story Beats/Growth1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Growth  1"
+              "title": "Growth1"
             }
           }
         ],
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story Beats/Resolution.md",
+                "file": "Story Beats/Growth1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Resolution"
+              "title": "Backlinks for Growth1"
             }
           },
           {
@@ -212,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story Beats/Resolution.md",
+                "file": "Story Beats/Growth1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Resolution"
+              "title": "Outgoing links from Growth1"
             }
           },
           {
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story Beats/Resolution.md",
+                "file": "Story Beats/Growth1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Resolution"
+              "title": "Outline of Growth1"
             }
           }
         ]
@@ -270,15 +270,15 @@
   },
   "active": "929936fba645a5ca",
   "lastOpenFiles": [
+    "Story Beats/Growth2.md",
+    "Story Beats/Growth1.md",
+    "Story Beats/Challenge2.md",
+    "Story Beats/Challenge1.md",
     "Story Beats/Resolution.md",
     "Narrative.md",
-    "Story Beats/Growth 2.md",
-    "Story Beats/Challenge 2.md",
-    "Story Beats/Challenge 1.md",
     "Story Beats/Discovery.md",
     "References.md",
     "Story Beats/Trigger.md",
-    "Story Beats/Growth  1.md",
     "Story Beats/Setup.md",
     "Story Beats",
     "index.md",
