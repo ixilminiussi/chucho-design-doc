@@ -1,19 +1,8 @@
 ## Artistic Direction
-
-```embed
-title: "Descend: Complex Narrative Indie Game"
-image: "https://cdn.80.lv/api/upload/post/396/images/5d2878ed215b2/contain_1200x630.jpg"
-description: "Twinspell Studio shows the full creation process of their debut project stylized with Maya, Zbrush, Photoshop & UE4."
-url: "https://80.lv/articles/descend-complex-narrative-indie-game/"
-```
-
-```embed
-title: "The Gardens Between on Steam"
-image: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/600990/capsule_616x353.jpg?t=1628645994"
-description: "The Gardens Between is a surreal puzzle adventure that follows best friends, Arina and Frendt, as they fall into a mysterious world of beautiful garden islands. Manipulate time to solve puzzles and discover the secrets of each island."
-url: "https://store.steampowered.com/app/600990/The_Gardens_Between/"
-```
-
+- [Descent](https://80.lv/articles/descend-complex-narrative-indie-game/)
+<iframe src="https://80.lv/articles/descend-complex-narrative-indie-game/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+- [The Gardens Between](https://store.steampowered.com/app/600990/The_Gardens_Between/)
+<iframe src="https://store.steampowered.com/app/600990/The_Gardens_Between/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 ## Narrative Design
 
 ```embed
