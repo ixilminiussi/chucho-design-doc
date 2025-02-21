@@ -9,4 +9,5 @@ The player constantly shifts between climbing the metaphorical mountain, and rel
 
 - [[Narrative]]
 - [[Gameplay]]
+- [[Mechanics]]
 - [[References]]

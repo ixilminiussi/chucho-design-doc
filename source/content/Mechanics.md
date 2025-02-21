@@ -27,6 +27,7 @@ As the game progresses this happens less and less, but the more bold answers wil
 To increase the satisfaction factor. In the [[Metamountain]] world some of the rocks and environment elements react to your steps. Lighting up as you touch them à-la Refunct: 
 ![](https://youtu.be/1VC5UcztbCU)
 ## Jump
+The jump is forgiving, full of Coyote-time and all the other friendly gimmicks. There is no double jump, no dashes, just a simple healthy jump that allows Chucho to bounce from rock to rock, edge to edge.
 ## Headbutt
 ## Rope
 ## Headbutt 
