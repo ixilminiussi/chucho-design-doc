@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanics"
+              "title": "index"
             }
           },
           {
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mechanics"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -254,12 +254,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mechanics"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -283,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mechanics"
+              "title": "Outline of index"
             }
           }
         ]
@@ -312,10 +312,10 @@
   },
   "active": "ce6297e08c7dc645",
   "lastOpenFiles": [
+    "Mechanics.md",
     "Gameplay.md",
     "index.md",
     "Chucho.md",
-    "Mechanics.md",
     "Attachments/path-example.jpg",
     "Metamountain.md",
     "Attachments/dialog-example.jpg",

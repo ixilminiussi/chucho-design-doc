@@ -20,18 +20,22 @@ These options do not meaningfully change the course of the game, but they do cha
 
 As the game progresses this happens less and less, but the more bold answers will take longer to become available. With "I love you" only happening at the [[8.Resolution|resolution]].
 ## Walk
-![[path-example.jpg]]
-
+![[path-example.jpg|300]]
 [[Chucho]] is one of those [Strand-type games](https://www.youtube.com/watch?v=ukqZ5VOoK5s&t=57s) where the walking path isn't so even and walking itself becomes a mechanic. Using IK the Ibex-like walking is shown as the player moves through uneven terrain, seemingly unbothered by steep surfaces. He can choose whether to walk through unsatisfying paths or better ones but there is no strict lose-condition in that regard, just more or less satisfaction.
 
-To increase the satisfaction factor. In the [[Metamountain]] world some of the rocks and environment elements react to your steps. Lighting up as you touch them à-la Refunct: 
-![](https://youtu.be/1VC5UcztbCU)
+To increase the satisfaction factor. In the [[Metamountain]] world some of the rocks and environment elements react to your steps - lighting up as you touch them.
 ## Jump
 The jump is forgiving, full of Coyote-time and all the other friendly gimmicks. There is no double jump, no dashes, just a simple healthy jump that allows Chucho to bounce from rock to rock, edge to edge.
+## Rope 
+Early on, [[Chucho]] is given(?) a climbing rope. This rope isn't for "climbing" however, but it does allow him to overcome obstacles.
+### Slackline
+[[Chucho]] throws and attaches the rope between two anchors, he can then balance and walk over it.
+### Hook
+[[Chucho]] throws the rope at an anchor and pulls. This can lower bridges and break obstacles. In the [[Metamountain]], this can also pull entire platforms, or pull YOUR platform to another.
 ## Headbutt
-## Rope
-## Headbutt 
 ### Handwave
 **([[Metamountain]] only)**
+This is the post-[[6.Challenge2|second challenge]] equivalent to the headbutt. [[Chucho]] has lost one of his horns and cannot headbutt obstacles anymore. However he doesn't care, he has gone beyond anger straight to grief and now simply hand waves these same obstacles like they were nothing.
 ## Reorder 
 **([[Metamountain]] only)**
+During the [[7.Growth2|second growth]], [[Chucho]] slowly gets a better hold over his emotion, and his destructive power now allow the opposite: he can bring back order to some of the chaotic areas.
