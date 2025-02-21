@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics.md",
+                "file": "Gameplay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanics"
+              "title": "Gameplay"
             }
           },
           {
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics.md",
+                "file": "Gameplay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mechanics"
+              "title": "Backlinks for Gameplay"
             }
           },
           {
@@ -254,12 +254,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics.md",
+                "file": "Gameplay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mechanics"
+              "title": "Outgoing links from Gameplay"
             }
           },
           {
@@ -283,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics.md",
+                "file": "Gameplay.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mechanics"
+              "title": "Outline of Gameplay"
             }
           }
         ]
@@ -312,9 +312,11 @@
   },
   "active": "ce6297e08c7dc645",
   "lastOpenFiles": [
+    "Attachments/controls.png",
+    "Attachments/Screenshot From 2025-02-21 18-07-41.png",
+    "Mechanics.md",
     "Chucho.md",
     "Attachments/dialog-example.jpg",
-    "Mechanics.md",
     "Metamountain.md",
     "References.md",
     "index.md",
