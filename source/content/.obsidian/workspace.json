@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Metamountain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Metamountain"
             }
           },
           {
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Metamountain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Metamountain"
             }
           },
           {
@@ -254,12 +254,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Metamountain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Metamountain"
             }
           },
           {
@@ -283,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Metamountain.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Metamountain"
             }
           }
         ]
@@ -312,12 +312,13 @@
   },
   "active": "ce6297e08c7dc645",
   "lastOpenFiles": [
+    "References.md",
+    "Metamountain.md",
+    "index.md",
     "Mechanics.md",
     "Gameplay.md",
-    "index.md",
     "Chucho.md",
     "Attachments/path-example.jpg",
-    "Metamountain.md",
     "Attachments/dialog-example.jpg",
     "Story beats/3.Discovery.md",
     "Story beats/8.Resolution.md",
@@ -331,7 +332,6 @@
     "resolution.md",
     "mecha.md",
     "Narrative.md",
-    "References.md",
     "Attachments/dialog-example.md",
     "Attachments",
     "Story beats",
