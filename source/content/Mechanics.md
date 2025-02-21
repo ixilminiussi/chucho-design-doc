@@ -9,6 +9,8 @@ aliases:
   - Reorder
   - Dialog
 ---
+## Checkpoints
+As a platformer, the game uses checkpoints to help the player. These checkpoints are generous and take the shape of Cairns rebuilding themselves as you come near.
 ## Dialog
 ![[dialog-example.jpg]]
 

@@ -1,0 +1,2 @@
+Chucho is the titular character of the game. He is a simple Ibex living in the mountains with his mother. He is incredibly shy however, and struggles to speak his emotions. Through the game you witness him going from a near-baby to fully-grown.
+### (Design pending)
