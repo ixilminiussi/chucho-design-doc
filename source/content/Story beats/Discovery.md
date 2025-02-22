@@ -6,7 +6,7 @@ title: Story beats -> Discovery
 ## Misc
 | Time | Target Emotion | Challenge |
 | ---- | -------------- | --------- |
-| min  | Attachment     | Low       |
+| 3min | Attachment     | Low       |
 ## Who ?
 [[Chucho]], [[Poudre]]
 ## Where ?
