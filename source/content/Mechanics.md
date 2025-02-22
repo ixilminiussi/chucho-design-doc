@@ -38,7 +38,7 @@ Early on, [[Chucho]] is given(?) a climbing rope. This rope isn't for "climbing"
 ## Headbutt
 ### Handwave
 **([[Metamountain]] only)**
-This is the post-[[Challenge2|second challenge]] equivalent to the headbutt. [[Chucho]] has lost one of his horns and cannot headbutt obstacles anymore. However he doesn't care, he has gone beyond anger straight to grief and now simply hand waves these same obstacles like they were nothing.
+This is the post-[[Second Challenge|second challenge]] equivalent to the headbutt. [[Chucho]] has lost one of his horns and cannot headbutt obstacles anymore. However he doesn't care, he has gone beyond anger straight to grief and now simply hand waves these same obstacles like they were nothing.
 ## Reorder 
 **([[Metamountain]] only)**
-During the [[Growth2|second growth]], [[Chucho]] slowly gets a better hold over his emotion, and his destructive power now allow the opposite: he can bring back order to some of the chaotic areas.
+During the [[Second Growth|second growth]], [[Chucho]] slowly gets a better hold over his emotion, and his destructive power now allow the opposite: he can bring back order to some of the chaotic areas.

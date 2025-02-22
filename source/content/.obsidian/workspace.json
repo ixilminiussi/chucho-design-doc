@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story beats/Challenge1.md",
+                "file": "Story beats/First Growth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Challenge1"
+              "title": "First Growth"
             }
           },
           {
@@ -317,12 +317,12 @@
   },
   "active": "acf32d67c7a1f5cf",
   "lastOpenFiles": [
-    "Story beats/Resolution.md",
-    "Story beats/Challenge1.md",
-    "Story beats/Growth2.md",
-    "Story beats/Challenge2.md",
-    "Story beats/Growth1.md",
+    "Story beats/Second Growth.md",
+    "Story beats/Second Challenge.md",
+    "Story beats/First Challenge.md",
+    "Story beats/First Growth.md",
     "Story beats/Discovery.md",
+    "Story beats/Resolution.md",
     "Story beats/Trigger.md",
     "Story beats/Setup.md",
     "Narrative.md",
