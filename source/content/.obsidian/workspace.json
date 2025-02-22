@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story beats/First Growth.md",
+                "file": "Story beats/Discovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First Growth"
+              "title": "Discovery"
             }
           },
           {
@@ -159,12 +159,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative.md",
+                "file": "Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Narrative"
+              "title": "Mechanics"
             }
           }
         ]
@@ -317,23 +317,23 @@
   },
   "active": "acf32d67c7a1f5cf",
   "lastOpenFiles": [
-    "Story beats/Second Growth.md",
-    "Story beats/Second Challenge.md",
     "Story beats/First Challenge.md",
-    "Story beats/First Growth.md",
     "Story beats/Discovery.md",
-    "Story beats/Resolution.md",
     "Story beats/Trigger.md",
     "Story beats/Setup.md",
+    "Mechanics.md",
     "Narrative.md",
+    "Metamountain.md",
+    "Story beats/First Growth.md",
+    "Story beats/Second Growth.md",
+    "Story beats/Second Challenge.md",
+    "Story beats/Resolution.md",
     "Chucho.md",
     "index.md",
     "Gameplay.md",
     "Attachments/controls.png",
     "Attachments/Screenshot From 2025-02-21 18-07-41.png",
-    "Mechanics.md",
     "Attachments/dialog-example.jpg",
-    "Metamountain.md",
     "References.md",
     "Attachments/path-example.jpg",
     "Dialog.md",

@@ -3,6 +3,10 @@ aliases:
   - setup
 title: Story beats -> Setup
 ---
+## Misc
+| Time | Target Emotion | Challenge |
+| ---- | -------------- | --------- |
+| 2min | Attachment     | Low       |
 ## Who ?
 [[Chucho]] and his mother
 ## Where?

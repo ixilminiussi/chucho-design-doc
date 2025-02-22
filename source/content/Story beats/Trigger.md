@@ -3,6 +3,10 @@ aliases:
   - trigger
 title: Story beats -> Trigger
 ---
+## Misc
+| Time | Target Emotion | Challenge |
+| ---- | -------------- | --------- |
+| 3min | Embarassment   | None      |
 ## Who ?
 [[Chucho]], [[Poudre]], both their parents
 ## Where ?
@@ -25,3 +29,5 @@ Once again, complete silence, nothing comes through. His mother apologizes for h
 	- [Scream]
 	- I WANT TO SAY SOMETHING!
 	- Mum, can we go home ?
+
+The last option IS available actually, altho it is whispered as he sheepishly asks his mother to go. She smiles and tells him everything is gonna be alright, and to go play with [[Poudre]] a little bit. She tells you about a cool spot to go check out and the entire world disappears. You are now in the [[Metamountain]] and things are very monotone, with the exception of a light somewhere up the mountain, where [[Chucho]] is meant to go.

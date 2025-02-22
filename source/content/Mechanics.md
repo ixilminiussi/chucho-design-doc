@@ -8,6 +8,8 @@ aliases:
   - Handwave
   - Reorder
   - Dialog
+  - Hook
+  - Slackline
 ---
 ## Checkpoints
 As a platformer, the game uses checkpoints to help the player. These checkpoints are generous and take the shape of Cairns rebuilding themselves as you come near.
