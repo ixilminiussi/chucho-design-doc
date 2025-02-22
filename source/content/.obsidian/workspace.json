@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Goals.md",
+                "file": "Story beats/Resolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Goals"
+              "title": "Resolution"
             }
           },
           {
@@ -332,20 +332,20 @@
   },
   "active": "a3961663b0b69814",
   "lastOpenFiles": [
+    "Story beats/Second Growth.md",
+    "Story beats/Second Challenge.md",
+    "Story beats/First Growth.md",
+    "Story beats/First Challenge.md",
+    "Story beats/Trigger.md",
     "Design Goals.md",
     "index.md",
     "Gameplay.md",
     "Chucho.md",
-    "Story beats/Second Challenge.md",
-    "Story beats/First Growth.md",
-    "Story beats/First Challenge.md",
     "Narrative.md",
     "Story beats/Discovery.md",
     "Mechanics.md",
     "Story beats/Setup.md",
-    "Story beats/Trigger.md",
     "Metamountain.md",
-    "Story beats/Second Growth.md",
     "Story beats/Resolution.md",
     "Attachments/controls.png",
     "Attachments/Screenshot From 2025-02-21 18-07-41.png",
