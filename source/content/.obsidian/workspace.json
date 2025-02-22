@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story beats/2.Trigger.md",
+                "file": "Story beats/Challenge1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.Trigger"
+              "title": "Challenge1"
             }
           },
           {
@@ -317,9 +317,15 @@
   },
   "active": "acf32d67c7a1f5cf",
   "lastOpenFiles": [
+    "Story beats/Resolution.md",
+    "Story beats/Challenge1.md",
+    "Story beats/Growth2.md",
+    "Story beats/Challenge2.md",
+    "Story beats/Growth1.md",
+    "Story beats/Discovery.md",
+    "Story beats/Trigger.md",
+    "Story beats/Setup.md",
     "Narrative.md",
-    "Story beats/2.Trigger.md",
-    "Story beats/1.Setup.md",
     "Chucho.md",
     "index.md",
     "Gameplay.md",
@@ -330,12 +336,6 @@
     "Metamountain.md",
     "References.md",
     "Attachments/path-example.jpg",
-    "Story beats/3.Discovery.md",
-    "Story beats/8.Resolution.md",
-    "Story beats/7.Growth2.md",
-    "Story beats/6.Challenge2.md",
-    "Story beats/5.Growth1.md",
-    "Story beats/4.Challenge1.md",
     "Dialog.md",
     "resolution.md",
     "mecha.md",

@@ -20,7 +20,7 @@ These options do not meaningfully change the course of the game, but they do cha
 
 **Most important** however: Sometimes, and especially early on, all options are silence. [[Chucho]] has troubles opening up and is generally incredibly shy. To mimic this sentiment, the player is shown multiple options but as he tries to select them, they all disappear under your cursor. You cannot speak.
 
-As the game progresses this happens less and less, but the more bold answers will take longer to become available. With "I love you" only happening at the [[8.Resolution|resolution]].
+As the game progresses this happens less and less, but the more bold answers will take longer to become available. With "I love you" only happening at the [[Resolution|resolution]].
 ## Walk
 ![[path-example.jpg|300]]
 
@@ -38,7 +38,7 @@ Early on, [[Chucho]] is given(?) a climbing rope. This rope isn't for "climbing"
 ## Headbutt
 ### Handwave
 **([[Metamountain]] only)**
-This is the post-[[6.Challenge2|second challenge]] equivalent to the headbutt. [[Chucho]] has lost one of his horns and cannot headbutt obstacles anymore. However he doesn't care, he has gone beyond anger straight to grief and now simply hand waves these same obstacles like they were nothing.
+This is the post-[[Challenge2|second challenge]] equivalent to the headbutt. [[Chucho]] has lost one of his horns and cannot headbutt obstacles anymore. However he doesn't care, he has gone beyond anger straight to grief and now simply hand waves these same obstacles like they were nothing.
 ## Reorder 
 **([[Metamountain]] only)**
-During the [[7.Growth2|second growth]], [[Chucho]] slowly gets a better hold over his emotion, and his destructive power now allow the opposite: he can bring back order to some of the chaotic areas.
+During the [[Growth2|second growth]], [[Chucho]] slowly gets a better hold over his emotion, and his destructive power now allow the opposite: he can bring back order to some of the chaotic areas.
