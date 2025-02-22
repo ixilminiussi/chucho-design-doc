@@ -6,11 +6,12 @@ title: Story beats -> Discovery
 ## Misc
 | Time | Target Emotion | Challenge |
 | ---- | -------------- | --------- |
-| 2min | Embarassment   | None      |
-## Misc
-| Time | Target Emotion | Challenge |
-| ---- | -------------- | --------- |
 | min  | Attachment     | Low       |
+## Who ?
+[[Chucho]], [[Poudre]]
+## Where ?
+Somewhere up the picnic spot, then in a secret spot.
+## What ?
 You climb the mountain up to that spot, lighting up rocks as you go. The terrain gets progressively steeper as you do. Once you get there you enter back into the memory space as [[Poudre]] shows you this cool spot which she has furnished a little bit, and you both turn to see the view. "what do you think of this? Beautiful right?"
 
 	- Woaaaaah

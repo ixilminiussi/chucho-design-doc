@@ -8,6 +8,7 @@ Inspired by games like [Gris](https://store.steampowered.com/app/683320/GRIS/) o
 The player constantly shifts between climbing the metaphorical mountain, and relieving key memories of quiet interaction. With the color palette distinguishing between the two. 
 
 - [[Narrative]]
+- [[Design Goals]]
 - [[Gameplay]]
 - [[Mechanics]]
 - [[References]]
