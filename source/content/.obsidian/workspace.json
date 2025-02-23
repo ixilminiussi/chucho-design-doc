@@ -189,8 +189,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acf32d67c7a1f5cf",
+  "active": "d3e329badae8f020",
   "lastOpenFiles": [
+    "Gameplay.md",
     "Design Goals.md",
     "Story beats/Resolution.md",
     "Narrative.md",
@@ -203,7 +204,6 @@
     "index.md",
     "Story beats/Discovery.md",
     "References.md",
-    "Gameplay.md",
     "Chucho.md",
     "Mechanics.md",
     "Metamountain.md",

@@ -2,7 +2,10 @@
 aliases:
   - narrative
 ---
-These are the large story beats. Each section is accompanied with a new "mechanic" mirroring [[Chucho]]'s emotional state.
+```markdown 
+> [!NOTE] 
+> These are the broad story beats. Each section is accompanied with a new "mechanic" mirroring [[Chucho]]'s emotional state.
+```
 
 | Beat                 | Who?                               | Where?                                                                                                                                                                     | What?                                                                                                                                                                                                    |
 | -------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
