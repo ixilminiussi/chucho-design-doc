@@ -10,7 +10,7 @@ title: Story beats -> Second Challenge
 ## Who ?
 [[Chucho]], [[Poudre]], Diego
 ## Where ?
-[Monte Argentera](https://en.wikipedia.org/wiki/Monte_Argentera)
+Bottom of the [vallée de l'Ubaye](https://www3.mercantour-parcnational.fr/fr/des-decouvertes/destination-parc-national-du-mercantour/les-vallees-du-parc/vallee-de-lubaye)
 ## What ?
 As you place the edelweiss behind your back, we match cut to [[Chucho]] in different clothing, different place, waiting for [[Poudre]] to finally come back. We see the car in the distance approaching, the door opening, and [[Poudre]] finally stepping out, along with her new friend: Diego. All of this strength in [[Chucho]] disappears as he loses his mind:
 
