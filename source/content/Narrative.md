@@ -3,9 +3,6 @@ aliases:
   - narrative
 ---
 
-> [!NOTE] 
-> These are the broad story beats. Each section is accompanied with a new "mechanic" mirroring [[Chucho]]'s emotional state.
-
 | Beat                 | Who?                               | Where?                                                                                                                                                                     | What?                                                                                                                                                                                                    |
 | -------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Setup]]            | [[Chucho]] and his Mother          | Bottom of the [vallée de l'Ubaye](https://www3.mercantour-parcnational.fr/fr/des-decouvertes/destination-parc-national-du-mercantour/les-vallees-du-parc/vallee-de-lubaye) | follow mom to a picnic meeting and learn basic controls                                                                                                                                                  |
@@ -16,3 +13,6 @@ aliases:
 | [[Second Challenge]] | [[Chucho]], [[Poudre]], Diego      | Bottom of the [vallée de l'Ubaye](https://www3.mercantour-parcnational.fr/fr/des-decouvertes/destination-parc-national-du-mercantour/les-vallees-du-parc/vallee-de-lubaye) | [[Chucho]] is stunned when [[Poudre]] returns with Diego. He loses control and is swept down the mountain, breaking a horn.                                                                              |
 | [[Second Growth]]    | [[Chucho]]                         | Up the metaphorical mountain                                                                                                                                               | [[Chucho]] slowly recovers—using [[Mechanics#Handwave\|Handwave]] and unlocking [[Mechanics#Reorder\|Reorder]] —to regain strength as he ascends, while hints of [[Poudre]]’s true feelings emerge.      |
 | [[Resolution]]       | [[Chucho]], [[Poudre]]             | Back in their secret spot                                                                                                                                                  | At their secret spot, heartbroken yet tender, [[Chucho]] gives [[Poudre]] a wet Edelweiss and they share a silent moment of love. Finally together.                                                      |
+
+> [!NOTE] 
+> These are the broad story beats. Each section is accompanied with a new "mechanic" mirroring [[Chucho]]'s emotional state.

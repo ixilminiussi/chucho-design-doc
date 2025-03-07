@@ -6,7 +6,7 @@ title: Story beats -> First Growth
 ## Misc
 | Time | Target Emotion | Challenge |
 | ---- | -------------- | --------- |
-| 4min | Excitement     | Medium    |
+| 6min | Excitement     | Medium    |
 ## Who ?
 [[Chucho]]
 ## Where ?

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Goals.md",
+                "file": "Gameplay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Goals"
+              "title": "Gameplay"
             }
           }
         ]
@@ -33,15 +33,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative.md",
+                "file": "References.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Narrative"
+              "title": "References"
+            }
+          },
+          {
+            "id": "af0edd0ba3ee1fb2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,25 +202,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3e329badae8f020",
+  "active": "acf32d67c7a1f5cf",
   "lastOpenFiles": [
+    "Story beats/Second Growth.md",
+    "Story beats/Second Challenge.md",
+    "Story beats/First Growth.md",
+    "Story beats/First Challenge.md",
+    "Story beats/Discovery.md",
+    "Story beats/Trigger.md",
+    "Story beats/Setup.md",
     "Design Goals.md",
+    "Narrative.md",
     "Chucho.md",
     "Gameplay.md",
-    "Story beats/Discovery.md",
     "Attachments/controls.png",
     "References.md",
-    "Narrative.md",
     "Metamountain.md",
     "Mechanics.md",
     "index.md",
     "Story beats/Resolution.md",
-    "Story beats/Second Challenge.md",
-    "Story beats/Second Growth.md",
-    "Story beats/First Growth.md",
-    "Story beats/First Challenge.md",
-    "Story beats/Trigger.md",
-    "Story beats/Setup.md",
     "Attachments/Screenshot From 2025-02-21 18-07-41.png",
     "Attachments/dialog-example.jpg",
     "Attachments/path-example.jpg",

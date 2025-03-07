@@ -12,7 +12,7 @@ title: Story beats -> Second Challenge
 ## Where ?
 Bottom of the [vallée de l'Ubaye](https://www3.mercantour-parcnational.fr/fr/des-decouvertes/destination-parc-national-du-mercantour/les-vallees-du-parc/vallee-de-lubaye)
 ## What ?
-As you place the edelweiss behind your back, we match cut to [[Chucho]] in different clothing, different place, waiting for [[Poudre]] to finally come back. We see the car in the distance approaching, the door opening, and [[Poudre]] finally stepping out, along with her new friend: Diego. All of this strength in [[Chucho]] disappears as he loses his mind:
+As you place the edelweiss behind your back, we match cut to [[Chucho]] in different clothing, back in secret spot, waiting for [[Poudre]] to finally come back. you see her arrive and pop over the hill, and then notice she brought a friend, a boyfriend (Diego)... All of this strength in [[Chucho]] disappears as he loses his mind:
 
 	- [Scream]
 	- [Scream]

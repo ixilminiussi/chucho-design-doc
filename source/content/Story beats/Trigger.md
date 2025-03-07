@@ -6,7 +6,7 @@ title: Story beats -> Trigger
 ## Misc
 | Time | Target Emotion | Challenge |
 | ---- | -------------- | --------- |
-| 3min | Embarassment   | None      |
+| 2min | Embarassment   | None      |
 ## Who ?
 [[Chucho]], [[Poudre]], both their parents
 ## Where ?

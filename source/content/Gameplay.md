@@ -6,8 +6,12 @@ draft: "true"
 
 ```mermaid 
 flowchart LR 
-A["Isaac Newton"] --> B["Three laws of motion"] 
-B --> A
+A["Platforming (Develop previous mecanic)"]
+B["Dialog (unlock new mecanic)"] 
+C["Platforming (Use new mecanic)"]
+D["Dialog (transition into next chapter)"]
+A --> B --> C --> D
+D --> A
 ```
 
 ## Controls
